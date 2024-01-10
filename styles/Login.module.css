@@ -1,0 +1,167 @@
+.letsGetStarted {
+    align-self: stretch;
+    position: relative;
+    font-weight: 500;
+  }
+  .findTheRight {
+    margin: 0;
+  }
+  .findTheRightContainer {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--paragraf-14-medium-size);
+    line-height: 170%;
+    font-weight: 500;
+    opacity: 0.5;
+  }
+  .letsGetStartedParent {
+    align-self: stretch;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-2xs);
+    font-size: var(--heading-h2-size);
+    color: var(--white-100);
+  }
+  .vectorIcon {
+    position: relative;
+    width: 1.13rem;
+    height: 0.89rem;
+  }
+  .vectorWrapper {
+    width: 2.38rem;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+    box-sizing: border-box;
+  }
+  .signUpEmail {
+    flex: 1;
+    position: relative;
+    line-height: 160%;
+    font-weight: 500;
+  }
+  .inputField {
+    align-self: stretch;
+    border-radius: var(--br-mini);
+    background-color: var(--dark-60);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-mini) var(--padding-3xs);
+    gap: var(--gap-3xs);
+  }
+  .orUseInstant {
+    align-self: stretch;
+    position: relative;
+    font-size: var(--paragraf-12-medium-size);
+    line-height: 170%;
+    font-weight: 600;
+    color: var(--white-100);
+    opacity: 0.5;
+  }
+  .componentChild {
+    position: relative;
+    width: 1.44rem;
+    height: 1.48rem;
+    object-fit: cover;
+  }
+  .component {
+    width: 1.5rem;
+    height: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-3xs) 0;
+    box-sizing: border-box;
+  }
+  .signWithGoogle {
+    flex: 1;
+    position: relative;
+    line-height: 160%;
+    font-weight: 600;
+  }
+  .googleLogin {
+    align-self: stretch;
+    border-radius: var(--br-base);
+    border: 2px solid var(--dark-60);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding: var(--padding-base) var(--padding-51xl) var(--padding-base)
+      var(--padding-xl);
+    gap: var(--gap-22xl);
+  }
+  .appleIcons {
+    position: relative;
+    width: 1.5rem;
+    height: 1.56rem;
+  }
+  .appleLogin {
+    align-self: stretch;
+    border-radius: var(--br-base);
+    border: 2px solid var(--dark-60);
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    padding: var(--padding-base) var(--padding-51xl) var(--padding-base)
+      var(--padding-xl);
+    gap: var(--gap-3xs);
+  }
+  .signIn {
+    color: #c6f432;
+  }
+  .alreadyHaveAnContainer {
+    flex: 1;
+    position: relative;
+    line-height: 170%;
+    font-weight: 500;
+  }
+  .alreadyHaveAnAccountSignWrapper {
+    align-self: stretch;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    justify-content: flex-start;
+    padding: var(--padding-3xs);
+    font-size: var(--paragraf-12-medium-size);
+    color: var(--color-slategray);
+  }
+  .frameParent {
+    position: absolute;
+    top: 11rem;
+    left: calc(50% - 164px);
+    width: 20.44rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    gap: var(--gap-6xl);
+  }
+  .getStarted {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 24.38rem;
+    height: 52.75rem;
+  }
+  .login {
+    position: relative;
+    border-radius: var(--br-21xl);
+    background-color: var(--color-gray-600);
+    width: 100%;
+    height: 52.75rem;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-base);
+    color: var(--dark-20);
+    font-family: var(--paragraf-12-medium);
+  }
+  
